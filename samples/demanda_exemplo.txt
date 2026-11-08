@@ -1,0 +1,10 @@
+Título: PO-FR-010
+REV: 01
+Operação: "Pespontar borda da fronha"
+Agrupamento família: Fronha
+Tamanho: Padrão
+Medidas da peça (em m): 0,50 x 0,70
+Pontos/cm: 3,00
+Perímetro costura (em m): 2,40
+Cód. Eqp: 2
+Elementos: 2.1, 3.1
